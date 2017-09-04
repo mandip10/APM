@@ -1,0 +1,10 @@
+table{
+    width: 100%;
+}
+td{
+    text-align: left;
+}
+#productdetail{
+    width: 50%;
+    float: left;
+}
