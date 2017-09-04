@@ -16,8 +16,6 @@ export class ProductDetailComponent implements OnInit {
   imageMargin: number=10;
   errorMessage: string;
   product: IProduct;
-
-  filteredProducts: IProduct[];
   products: IProduct;
 
   constructor(private _route: ActivatedRoute,
